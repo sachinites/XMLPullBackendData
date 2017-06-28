@@ -1,0 +1,3 @@
+This project is about fetching the linux application data in XML format. Extension to this project is to fetch the data in JSON format as well. Fetching the application Data in XML format helps to use the third party tool to further nalyse the data, Or render the data in any desired way. We shall implement the REST API to query the backend daemon, and pull the data based on REST query.
+We shall going to design the infra which will generically implement the Data Fetch mechanism. The application needs to registers the necessary information required to provide read/write access/mechanism to REST interface with the infra. 
+Design is in progress.
